@@ -1,0 +1,22 @@
+{
+  "name": "elm-signup-example",
+  "homepage": "https://github.com/JamesGennoy/elm-signup-example",
+  "authors": [
+    "James Gennoy <james@gennoy.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
